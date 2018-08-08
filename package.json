@@ -1,0 +1,11 @@
+{
+  "name": "selenium-tasks",
+  "version": "1.0.0",
+  "description": "assortment of selenium tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "John Potts",
+  "license": "ISC"
+}
