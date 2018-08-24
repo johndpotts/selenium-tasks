@@ -6,6 +6,6 @@ Using it is simple - clone the repo to your machine, cd into it, and run `npm in
 
 That will download the necessary dependencies. To test drive the files, just choose one and run it with node from the terminal: `node login.js`.
 
-These files are meant to give you a starting point for using selenium. You can find all the api documentation at (seleniumhq.github.io)[https://seleniumhq.github.io/selenium/docs/api/javascript/index.html].
+These files are meant to give you a starting point for using selenium. You can find all the api documentation at [seleniumhq.github.io](https://seleniumhq.github.io/selenium/docs/api/javascript/index.html).
 
 Have fun!
